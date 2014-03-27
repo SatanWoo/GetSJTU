@@ -386,7 +386,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/sjtu.png');
+    background: #fff url('../img/lx.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
